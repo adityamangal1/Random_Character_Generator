@@ -22,6 +22,6 @@ int main()
     {
         opp = 'g';
     }
-    printf("The opponent chooses %c", opp);
+    printf("The Opponent Chooses %c", opp);
     return 0;
 }
